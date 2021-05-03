@@ -1,1 +1,2 @@
 ### clone googletest repo to root folder, then it will work
+> git clone https://github.com/google/googletest

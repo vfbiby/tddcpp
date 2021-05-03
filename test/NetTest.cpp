@@ -1,6 +1,6 @@
 #include "ExampleTest.hpp"
 
-TEST(ExampleTest, DemoTest)
+TEST(NetTest, NetDemoTest)
 {
     ASSERT_EQ(1, 1);
 }
